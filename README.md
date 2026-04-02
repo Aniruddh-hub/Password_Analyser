@@ -27,9 +27,6 @@ Built with a clean and minimal Graphical User Interface (GUI), it ensures securi
 <br>
 
 ## 📸 Interface Snapshot
-
-> **Note to Aniruddha:** *Upload a screenshot of your app's GUI to your repository, then replace `image.png` below with the actual file name of your screenshot.*
-
 <div align="center">
   <img src="passwrd.png" alt="Password Analyzer GUI Screenshot" width="600"/>
 </div>
