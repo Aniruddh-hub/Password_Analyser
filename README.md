@@ -53,4 +53,4 @@ Make sure you have [Python 3.x](https://www.python.org/) (or your respective lan
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/password-analyzer-tool.git
+   git clone https://github.com/Aniruddha-hub/password-analyzer-tool.git
