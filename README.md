@@ -65,7 +65,7 @@ Passwords entered into this application are never stored or saved locally. When 
 <br>
 👨‍💻 Author
 Aniruddha Mitra
-GitHub: @YOUR_GITHUB_USERNAME
+GitHub: Aniruddh-hub
 LinkedIn: Aniruddha Mitra
 <div align="center">
 <i>If you find this project useful, please consider giving it a ⭐️!</i>
