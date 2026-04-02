@@ -54,3 +54,28 @@ Make sure you have [Python 3.x](https://www.python.org/) (or your respective lan
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aniruddh-hub/password-analyzer-tool.git
+   Navigate to the project directory:
+code
+Bash
+cd PasswordAnalyzerDesktop
+Install required dependencies (if any):
+code
+Bash
+pip install -r requirements.txt
+Run the application:
+code
+Bash
+python main.py
+<br>
+🔒 Privacy & Security Disclaimer
+This tool respects user privacy.
+Passwords entered into this application are never stored or saved locally. When checking for data breaches, the application uses the k-Anonymity model (only sending the first 5 characters of the password's SHA-1 hash to the API), ensuring your actual password is never transmitted over the internet.
+<br>
+👨‍💻 Author
+Aniruddha Mitra
+GitHub: @YOUR_GITHUB_USERNAME
+LinkedIn: Aniruddha Mitra
+<div align="center">
+<i>If you find this project useful, please consider giving it a ⭐️!</i>
+</div>
+```
