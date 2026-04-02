@@ -55,9 +55,9 @@ Make sure you have [Python 3.x](https://www.python.org/) (or your respective lan
    ```bash
    git clone https://github.com/Aniruddh-hub/password-analyzer-tool.git
 Navigate to the project directory:
-cd password-analyzer-tool
+cd password-analyzer-tool<br>
 Install required dependencies (if any):
-pip install -r requirements.txt
+pip install -r requirements.txt<br>
 Run the application:
 python main.py
 <br>
