@@ -31,7 +31,7 @@ Built with a clean and minimal Graphical User Interface (GUI), it ensures securi
 > **Note to Aniruddha:** *Upload a screenshot of your app's GUI to your repository, then replace `image.png` below with the actual file name of your screenshot.*
 
 <div align="center">
-  <img src="image.png" alt="Password Analyzer GUI Screenshot" width="600"/>
+  <img src="passwrd.png" alt="Password Analyzer GUI Screenshot" width="600"/>
 </div>
 
 <br>
@@ -54,9 +54,13 @@ Make sure you have [Python 3.x](https://www.python.org/) (or your respective lan
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aniruddh-hub/password-analyzer-tool.git
-   Navigate to the project directory:cd PasswordAnalyzerDesktop 
-   Install required dependencies (if any):pip install -r requirements.txt
-   Run the application:python main.py
+Navigate to the project directory:
+cd password-analyzer-tool
+Install required dependencies (if any):
+pip install -r requirements.txt
+Run the application:
+python main.py
+<br>
 <br>
 🔒 Privacy & Security Disclaimer
 This tool respects user privacy.
