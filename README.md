@@ -63,6 +63,7 @@ python main.py
 This tool respects user privacy.
 Passwords entered into this application are never stored or saved locally. When checking for data breaches, the application uses the k-Anonymity model (only sending the first 5 characters of the password's SHA-1 hash to the API), ensuring your actual password is never transmitted over the internet.
 <br>
+
 👨‍💻 Author
 Aniruddha Mitra
 GitHub: Aniruddh-hub
