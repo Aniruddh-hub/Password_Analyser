@@ -54,18 +54,9 @@ Make sure you have [Python 3.x](https://www.python.org/) (or your respective lan
 1. Clone the repository:
    ```bash
    git clone https://github.com/Aniruddh-hub/password-analyzer-tool.git
-   Navigate to the project directory:
-code
-Bash
-cd PasswordAnalyzerDesktop
-Install required dependencies (if any):
-code
-Bash
-pip install -r requirements.txt
-Run the application:
-code
-Bash
-python main.py
+   Navigate to the project directory:cd PasswordAnalyzerDesktop 
+   Install required dependencies (if any):pip install -r requirements.txt
+   Run the application:python main.py
 <br>
 🔒 Privacy & Security Disclaimer
 This tool respects user privacy.
